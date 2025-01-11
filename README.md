@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: attempting to access a property of a null object.  The `bug.as` file shows the erroneous code, while `bugSolution.as` provides a corrected version.  Learn how to avoid this error using null checks and conditional statements.
